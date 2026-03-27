@@ -1,24 +1,24 @@
 # SQL_Complete_Bootcamp
-Learning SQL from scratch to Master Level.
+## Learning SQL from scratch to Master Level.
 
-1 - SELECT
-2 - FROM
-3 - WHERE
-4 - AND
-5 - ORDER BY - ( DEf - ASC, we can sort the data either in ASC - Ascending Order, or DESC - decsending ORDER ), Nested Sorting
+- SELECT
+- FROM
+- WHERE
+- AND
+- ORDER BY : ( DEf - ASC, we can sort the data either in ASC : Ascending Order, or DESC : decsending ORDER ), Nested Sorting
 
-6 - GROUP BY - Aggregate Data
-7 - AS - Alias (Giving Meaningful columns Name)
-8 - Nesting Clauses
+- GROUP BY : Aggregate Data
+- AS : Alias (Giving Meaningful columns Name)
+- Nesting Clauses
 
-Querying Data
+## Querying Data
 ```
 SELECT * 
 FROM table_name
 WHERE condition_1 AND condition_2;
 ```
 
-- Agregating Data
+## Agregating Data
 ```
 SELECT
     country,
