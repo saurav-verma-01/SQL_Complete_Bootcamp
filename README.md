@@ -32,6 +32,8 @@ ORDER BY total_score DESC;
 
 - Having
 - Having vs Where
+- DISTINCT
+- TOP ( Limiting the results )
 
 ## Companies List
 - JLL
