@@ -29,3 +29,11 @@ GROUP BY country
 ORDER BY total_score DESC;
 ```
 * Always put the String alues inside a single quote.
+
+- Having
+- Having vs Where
+
+## Companies List
+- JLL
+- Hospitality - Booking.com, agoda, mmt, goibibo
+- ey, bdo, gt, kpmg, 
