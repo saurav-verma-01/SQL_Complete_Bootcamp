@@ -35,6 +35,8 @@ ORDER BY total_score DESC;
 - DISTINCT
 - TOP ( Limiting the results )
 
+* Order of Execution
+
 ## Companies List
 - JLL
 - Hospitality - Booking.com, agoda, mmt, goibibo

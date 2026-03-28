@@ -25,3 +25,5 @@ SELECT TOP 2
     *
 FROM orders
 ORDER By order_date DESC;
+
+-- Order of execution
