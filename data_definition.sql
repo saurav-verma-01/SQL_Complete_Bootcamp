@@ -2,6 +2,8 @@
 
 -- 1 - CREATE TABLE statements
 
+-- ** It creates a new databse object like a table, view, index, or stored procedure. The syntax for creating a table typically includes the table name, column names, data types, and any constraints (like primary keys or foreign keys).
+
 -- TASK : Create a table named 'persons' with columns for id, person_name, birth_date, and phone.
 
 -- CREATE TABLE persons
@@ -41,7 +43,9 @@
 
 -- TASK : Drop the 'persons' table from the database.
 
--- DELETE TABLE persons;
+-- DROP TABLE persons;
 
-SELECT *
-FROM persons;
+-- SELECT *
+-- FROM persons;
+
+-- *** Note: The DROP TABLE statement will permanently delete the table and all of its data. Use with caution!
