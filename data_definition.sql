@@ -34,8 +34,14 @@
 -- ALTER TABLE persons
 -- DROP COLUMN phone;
 
-SELECT *
-FROM persons;
+-- SELECT *
+-- FROM persons;
 
 -- 3 - DROP TABLE statements for deleting tables
 
+-- TASK : Drop the 'persons' table from the database.
+
+-- DELETE TABLE persons;
+
+SELECT *
+FROM persons;
